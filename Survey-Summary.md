@@ -2,17 +2,18 @@
 
 
 ### Country of Origin
-USA - 60%
-Canada - 20%
-Japan - 16%
-Mexico / Spain - 4%
+- USA       60%
+- Canada    20%
+- Japan     16%
+- Mexico    3%
+- Spain     1%
 
 ### Country of Origin / Group Size Average
-Japan   12
-Canada  5
-USA     3.21
-Spain   2
-Mexico  1
+- Japan   12
+- Canada  5
+- USA     3.21
+- Spain   2
+- Mexico  1
 
 
 ### Reason for Visit
@@ -20,7 +21,7 @@ Mexico  1
     - Family Vacation - 31%
     - Vacation - 23%
 - Romantic Holiday - 25%
-    - HoneyMoon - 11%
+    - Honeymoon - 11%
     - Wedding - 11%
     - Second Honeymoon - 3%
 - Business - 7%
@@ -38,8 +39,8 @@ Mexico  1
 
 ### Reason / Local Attractions
 
-No - 30 People - 40%
-Yes - 45 People - 60%
+- No - 30 People - 40%
+- Yes - 45 People - 60%
 
 - Business
     - No - 100% 
