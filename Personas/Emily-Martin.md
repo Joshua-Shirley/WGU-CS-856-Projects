@@ -1,20 +1,38 @@
 # Emily Martin (45) female
 
-Name : Emily Martin
-Gender : Female
-Age : 45 Years Old
-Address : 22 Summerhill Ave, Toronto, Ontario M4W 2E1, Canada
-Image : media/Emily-Martin.jpg
-Biography : Emily grew up and went to college in Vancouver BC.  She studied nursing and met her spouse of 20 years.  They relocated to Toronto, Ontario Canada. 
-Occupation : Surgical Nurse
-Salary : $135,000 CAD
-Personal Mantra : "Every life is worth my time and effort".
-Languages Spoken : English, French
+## Name 
+Emily Martin
 
-Customer Data driven :
+### Gender 
+Female
 
+### Age 
+45 Years Old
 
-### Customer Survey driven :
+### Address
+22 Summerhill Ave, Toronto, Ontario M4W 2E1, Canada
+
+### Image 
+media/Emily-Martin.jpg
+
+### Biography 
+Emily grew up and went to college in Vancouver BC.  She studied nursing and met her spouse of 20 years.  They relocated to Toronto, Ontario 
+Canada. 
+
+### Occupation
+Surgical Nurse
+
+### Annual Income
+$135,000 CAD
+
+### Languages Spoken 
+    - English
+    - French
+
+### Personal Mantra
+"Every life is worth my time and effort".
+
+### Customer Survey driven
     - Emily plans her family vacations. Her husband goes along with her plans.
     - She like at least one exotic vacation per year.
     - She prefers to take her kids and have a family vacation.
@@ -37,22 +55,22 @@ Emily uses technology daily both at work and home.  Emily looks convience but do
 
 Emily's profile represents 10-15% of the visitors to Tiniti (based on the visitor survey).
 
-### From the travel surveys:
-- 20% are Canadian residents.
-- 31% are on a family vacation.
-- Vacationers average 7.5 days on the island.
-- 29% of vacationers arrive by air.
-- 61% of visitors stay at a hotel.
-- 58% of vacationers stay at a hotel.
-- 100% of Canadian visitors are on vacation.
-- 38% of visitors rent a car.
-- 60% of Canadian visitors rent a car.
+### Travel Survey Data:
+    - 20% are Canadian residents.
+    - 31% are on a family vacation.
+    - Vacationers average 7.5 days on the island.
+    - 29% of vacationers arrive by air.
+    - 61% of visitors stay at a hotel.
+    - 58% of vacationers stay at a hotel.
+    - 100% of Canadian visitors are on vacation.
+    - 38% of visitors rent a car.
+    - 60% of Canadian visitors rent a car.
 
 ### Key Drivers
-- Ease of use
-- Her children
-- Education driven
-- Safety
+    - Ease of use
+    - Her children
+    - Education driven
+    - Safety
 
 ### Key Goals and Needs
 Emily likes her life planned out.  
@@ -62,3 +80,4 @@ Emily wants her child to experience quality life experiences.
 ### Pain Points
 What causes anxiety or pain for this persona?
 Unexpected changes and surprises cause Emily anxiety.
+Using a desktop computer outside of work.
