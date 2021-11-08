@@ -7,6 +7,14 @@ Canada - 20%
 Japan - 16%
 Mexico / Spain - 4%
 
+### Country of Origin / Group Size Average
+Japan   12
+Canada  5
+USA     3.21
+Spain   2
+Mexico  1
+
+
 ### Reason for Visit
 - Vacation - 54%
     - Family Vacation - 31%
@@ -142,3 +150,15 @@ Yes - 45 People - 60%
 
 ### Transportation / Country of Origin
 
+- Rental
+    - Canada    12%
+    - USA       25%
+- No Response
+    - USA       27%
+- Public
+    - Canada    8%
+    - Japan     16%
+- Taxi
+    - Mexico    1%
+    - Spain     3%
+    - USA       8%
