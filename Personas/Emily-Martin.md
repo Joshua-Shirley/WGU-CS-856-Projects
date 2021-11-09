@@ -23,14 +23,15 @@ Canada.
 Surgical Nurse
 
 ### Annual Income
-$135,000 CAD
+135,000 CAD
 
 ### Languages Spoken 
     - English
     - French
 
 ### Personal Mantra
-"Every life is worth my time and effort".
+"I wish to receive love and to give love.",
+
 
 ### Customer Survey driven
     - Emily plans her family vacations. Her husband goes along with her plans.
@@ -76,6 +77,7 @@ Emily's profile represents 10-15% of the visitors to Tiniti (based on the visito
 Emily likes her life planned out.  
 She plans months in advance and takes few risks.
 Emily wants her child to experience quality life experiences.
+Relaxation and comfort.
 
 ### Pain Points
 What causes anxiety or pain for this persona?
