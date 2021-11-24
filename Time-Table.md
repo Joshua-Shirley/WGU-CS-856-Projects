@@ -33,3 +33,6 @@ Days : 30
     - Surveys
     - Expert Reviews
 
+## Time Table
+
+| Task & Project | Days Required | Start Date | End Date | 
