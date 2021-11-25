@@ -58,6 +58,10 @@ Canidates looked for a list filter which wasn't there.
 
 ## Design Improvements from Feedback
 
+<<<<<<< HEAD
 - It was determined that the hotels and houses should be combined into one.
 - Filters need to be added to the hotel list.
 - Add in touch events to accommodate touch screens
+=======
+- Add in touch events to accommodate touch screens
+>>>>>>> ff05314c8abec05923c5dab31cb50f75e50ed3cd
