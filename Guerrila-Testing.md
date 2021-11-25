@@ -6,9 +6,17 @@ How will our people find accommodations on the island?
 
 Is the best way to promote local hotels - using maps or hotel features?
 
-How will users navigate with their mobile device.
-
+How will users navigate with their mobile device?
 
 
 ## The Survey
 
+
+
+
+## Summarize the Qualitative Feedback
+
+
+
+
+## Design Improvements from Feedback
