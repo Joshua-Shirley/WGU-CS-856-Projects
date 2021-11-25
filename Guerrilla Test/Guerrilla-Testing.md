@@ -19,24 +19,24 @@ Right away.
 3 random adults capable of booking a hotel
 Targetting mothers.
 
-** Low Fidelity Sketch Wireframes **
+**Low Fidelity Sketch Wireframes**
 
-* Menu *
+*Menu*
 ![Menu Sketch](media/Menu.jpg)
 
-* Island Map *
+*Island Map*
 ![Island Map](media/Map.jpg)
 
-* Hotel List *
+*Hotel List*
 ![Hotel List](media/Hotel-List.jpg)
 
-* House List *
+*House List*
 ![House List](media/House-List.jpg)
 
-* Hotel Profile *
+*Hotel Profile*
 ![Hotel Profile](media/Hotel-Page-1.jpg)
 
-* Hotel Profile Continued *
+*Hotel Profile Continued*
 ![Hotel Profile](media/Hotel-Page-2.jpg)
 
 
