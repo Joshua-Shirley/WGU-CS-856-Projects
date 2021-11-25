@@ -22,21 +22,27 @@ Targetting mothers.
 **Low Fidelity Sketch Wireframes**
 
 *Menu*
+
 ![Menu Sketch](media/Menu.jpg)
 
 *Island Map*
+
 ![Island Map](media/Map.jpg)
 
 *Hotel List*
+
 ![Hotel List](media/Hotel-List.jpg)
 
 *House List*
+
 ![House List](media/House-List.jpg)
 
 *Hotel Profile*
+
 ![Hotel Profile](media/Hotel-Page-1.jpg)
 
 *Hotel Profile Continued*
+
 ![Hotel Profile](media/Hotel-Page-2.jpg)
 
 
@@ -58,10 +64,6 @@ Canidates looked for a list filter which wasn't there.
 
 ## Design Improvements from Feedback
 
-<<<<<<< HEAD
 - It was determined that the hotels and houses should be combined into one.
 - Filters need to be added to the hotel list.
 - Add in touch events to accommodate touch screens
-=======
-- Add in touch events to accommodate touch screens
->>>>>>> ff05314c8abec05923c5dab31cb50f75e50ed3cd
