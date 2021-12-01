@@ -10,9 +10,10 @@ Taniti wants to promote local hotels and encourage tourists to visit
 
 ## Five Usability Tasks to Test
 
-1. Use a mobile device or tablet for the task.
-2. Use map to select hotel.
-3. Use hotel list to filter and select hotel.
+Using mobile device or tablet
+
+1. Find a hotel near the airport.
+2. Find a house with a pool.
+3. Use map to location a beach.
 4. Find a family friendly hotel - safe for teenage children.
 5. Find accommodation close to your favorite beach.
-
