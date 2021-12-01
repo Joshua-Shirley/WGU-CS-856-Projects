@@ -6,16 +6,136 @@
 The image used for the map was taken from a google maps screen shot.
 The posted image was altered for the purpose of the prototype.
 
-## Hotel Images
-
-
-
-## Beach Images
-
-[https://cs856-taniti.web.app/media/beaches/header-north-america-beach4.jpg]
- 
-Source - https://dlnr.hawaii.gov/dsp/parks/maui/waianapanapa-state-park/
-
-
-
-https://www.best-of-oahu.com/lanikai-pillbox-hike.html
+## Hotel Images & Beach Images
+| Image                                                                                             | Source                                                      |
+|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| https://cs856-taniti.web.app/media/beaches/header-central-america-caribbean-beach1.jpg            | https://www.worlds50beaches.com/top-50-worlds-best-beaches/ |
+| https://cs856-taniti.web.app/media/beaches/header-north-america-beach4.jpg                        | https://www.worlds50beaches.com/top-50-worlds-best-beaches/ |
+| https://cs856-taniti.web.app/media/beaches/header-north-america-beach5.jpg                        | https://www.worlds50beaches.com/top-50-worlds-best-beaches/ |
+| https://cs856-taniti.web.app/media/beaches/header-north-america-beach10.jpg                       | https://www.worlds50beaches.com/top-50-worlds-best-beaches/ |
+| https://cs856-taniti.web.app/media/beaches/north-america-beach4-slider1.jpg                       | https://www.worlds50beaches.com/top-50-worlds-best-beaches/ |
+| https://cs856-taniti.web.app/media/beaches/north-america-beach5-slider2.jpg                       | https://www.worlds50beaches.com/top-50-worlds-best-beaches/ |
+| https://cs856-taniti.web.app/media/beaches/australia-south-pacific-beach4-slider1   (1).jpg       | https://www.worlds50beaches.com/top-50-worlds-best-beaches/ |
+| https://cs856-taniti.web.app/media/beaches/australia-south-pacific-beach4-slider1.jpg             | https://www.worlds50beaches.com/top-50-worlds-best-beaches/ |
+| https://cs856-taniti.web.app/media/beaches/header-asia-beach2.jpg                                 | https://www.worlds50beaches.com/top-50-worlds-best-beaches/ |
+| https://cs856-taniti.web.app/media/beaches/header-australia-south-pacific-beach6.jpg              | https://www.worlds50beaches.com/top-50-worlds-best-beaches/ |
+| https://cs856-taniti.web.app/media/hotels/AuRegina/1950be37_z.jpg                                 | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/AuRegina/a3b92c6b_z.webp                                | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/AuRegina/08b73409_z.jpg                                 | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/AuRegina/015b6142_z.jpg                                 | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/AuRegina/047f64b2_z.webp                                | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/AuRegina/86ed95fd_z.jpg                                 | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/AuRegina/0976d2cd_z.jpg                                 | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/Eucalyptus/ff15cba5_z.webp                              | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/Eucalyptus/pool.webp                                    | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/Eucalyptus/8a8250f0_z.webp                              | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/Eucalyptus/bfe605ae_z.webp                              | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/Eucalyptus/cb7941ba_z.webp                              | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/fano/a2b40e4b_z.jpg                                     | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/fano/c823f795_z.webp                                    | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/fano/ddd5755a_z.webp                                    | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/fano/ebcc12c4_z.jpg                                     | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/fano/ff855aa0_z.jpg                                     | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/fano/82a26502_z.jpg                                     | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/fano/77079153_z.webp                                    | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/fareHanalei/02939de3_z.jpg                              | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/fareHanalei/0f657a72_z.webp                             | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/fareHanalei/467d98e5_z.jpg                              | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/hilton/w3838h1862x1y0-6ceb8f1f_z.webp                   | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/hilton/w3838h2162x0y0-c16c9fd6_z.webp                   | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/hilton/89dbae32_z.webp                                  | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/hilton/25268809_z.webp                                  | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/hilton/w3837h1832x1y0-5c904bb0_z.webp                   | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/infinity/17ca6779_z.webp                                | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/infinity/59ea7d62_z.webp                                | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/infinity/ba5ddc25_z.webp                                | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/infinity/1ccd8a82_z.webp                                | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/infinity/3fba09ae_z.webp                                | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/interContinental/36c6e222_z.webp                        | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/interContinental/971c8f39_z.webp                        | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/interContinental/bea13f5e_z.webp                        | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/interContinental/ec60bbca_z.webp                        | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/interContinental/6abc3ffe_z.webp                        | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/interContinental/9b8b4c17_z.webp                        | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/interContinental/9efe573a_z.webp                        | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/maereVilla/311c8742_z.jpg                               | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/maereVilla/839c5d5d_z.jpg                               | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/maereVilla/4254eb39_z.webp                              | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/maereVilla/6f6e039c_z.jpg                               | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/maereVilla/6fdf8dd7_z.jpg                               | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/maereVilla/86ffb081_z.jpg                               | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/manavaResort/b5b9edf3_z.webp                            | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/manavaResort/b61915a5_z.webp                            | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/manavaResort/f92e39bb_z.webp                            | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/manavaResort/2a7a8060_z.webp                            | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/manavaResort/54bda2ec_z.webp                            | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/manavaResort/92e3cac6_z.webp                            | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/manavaResort/226e85c6_z.webp                            | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/manavaSuite/5022e191_z.webp                             | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/manavaSuite/d145ee03_z.webp                             | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/manavaSuite/dbcdd9e2_z.webp                             | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/manavaSuite/f9150dc7_z.webp                             | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/manavaSuite/5b168610_z.webp                             | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/manavaSuite/8ba9bbc6_z.webp                             | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/manavaSuite/42c2be6e_z.webp                             | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/mandarin/bangkok-20-room-state-bathroom.webp            | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/mandarin/bangkok-20-room-state-bedroom.jfif             | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/mandarin/bangkok-20-room-state-bedroom-front-view.jfif  | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/mandarin/Cinco-de-Mayo-1-1.png                          | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/mandarin/bangkok-16-hotel-the-authors-wing-dusk-01.webp | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/mandarin/bangkok-19-gym-1.webp                          | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/mandarin/bangkok-19-pool-side-seating-3.webp            | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/mitirapa/e5ba8cd6_z.webp                                | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/mitirapa/f9d74090_z.webp                                | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/mitirapa/4577c290_z.webp                                | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/mitirapa/639732a7_z.webp                                | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/mitirapa/af812c23_z.webp                                | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/moananui/32a238da_z.jpg                                 | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/moananui/39c6207e_z.webp                                | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/moananui/a5951aab_z.jpg                                 | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/moananui/7aef9e94_z.jpg                                 | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/moananui/15cad92a_z.jpg                                 | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/moananui/21ab50b7_z.webp                                | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/moananui/031e16ee_z.jpg                                 | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/mooreaLodge/mooreaLodge.webp                            | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/mooreaLodge/ce4c1977_z.webp                             | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/mooreaLodge/e646aeaf_z.webp                             | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/pearlResorts/16c84217_z.webp                            | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/pearlResorts/87e481c9_z.webp                            | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/pearlResorts/697a9727_z.webp                            | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/pearlResorts/c0eacdbc_z.webp                            | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/pearlResorts/003d254a_z.webp                            | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/pearlResorts/8ec32075_z.webp                            | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/pearlResorts/9a76b826_z.webp                            | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/sarahNui/b2caa291_z.webp                                | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/sarahNui/45f4dfea_z.webp                                | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/sarahNui/86c1573a_z.webp                                | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/sarahNui/98e96a5f_z.webp                                | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/tanitiAirport/8f001512_z.webp                           | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/tanitiAirport/eab8ab82_z.webp                           | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/tanitiAirport/0c94e86f_z.webp                           | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/tanitiAirport/4f8559be_z.webp                           | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/vahineria/ca97bc4b_z.jpg                                | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/vahineria/f6613eaf_z.jpg                                | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/vahineria/1e9955ac_z.webp                               | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/vahineria/528a9619_z.jpg                                | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/venus/bc1182c7_z.jpg                                    | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/venus/d58ec46f_z.jpg                                    | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/venus/e311647f_z.jpg                                    | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/venus/13be7141_z.webp                                   | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/venus/989bb3d8_z.jpg                                    | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/venus/314438b3_z.jpg                                    | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/venus/83587129_z.jpg                                    | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/villaOasis/16386348_z.jpg                               | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/villaOasis/b1aba21c_z.webp                              | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/villaOasis/c0e05068_z.jpg                               | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/villaOasis/d2556f4f_z.webp                              | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/villaOasis/1b35c0e1_z.webp                              | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/villaOasis/03d59e5e_z.webp                              | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/villaOasis/6bec67b1_z.webp                              | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/villaOasis/820b1f3a_z.webp                              | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/villaOasis/39266d30_z.webp                              | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/wendylocation/f7ef26df_z.webp                           | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/wendylocation/2b927b4d_z.webp                           | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/wendylocation/cfb7e69d_z.webp                           | https://hotels.com                                          |
+| https://cs856-taniti.web.app/media/hotels/wendylocation/ee7b201c_z.webp                           | https://hotels.com                                          |
