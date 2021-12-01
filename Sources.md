@@ -12,6 +12,10 @@ The posted image was altered for the purpose of the prototype.
 
 ## Beach Images
 
-** https://cs856-taniti.web.app/media/beaches/header-north-america-beach4.jpg **
+[https://cs856-taniti.web.app/media/beaches/header-north-america-beach4.jpg]
+ 
 Source - https://dlnr.hawaii.gov/dsp/parks/maui/waianapanapa-state-park/
 
+
+
+https://www.best-of-oahu.com/lanikai-pillbox-hike.html
