@@ -55,15 +55,28 @@ Choices
 2. Menu -> Hotel List -> Hotel Profile
 3. Menu -> House List -> House Profile
 
+## Summary Table
+
+| Name     | Feedback                                         | Actionable | Response                                                                   |
+|----------|--------------------------------------------------|------------|----------------------------------------------------------------------------|
+| Charlene | Used the map list.                               | Yes        | Leave the island map in as a journey path.                                 |
+| Charlene | Wants to zoom in on beaches                      | Yes        | Adding a zoom functionality is a possibility in the prototype phase.       |
+| Charlene | Left handed                                      | Yes        | Make sure buttons are easy to access from both sides of the mobile device. |
+| Chris    | Likes the hotel list                             | No         | Leave the island map in as a journey path.                                 |
+| Chris    | Wants to filter list by ammenities and locations | Yes        | Add a filter and sort function to the list                                 |
+| Jessica  | Used the hotel list.                             | Yes        | Leave the island map in as part of the journey.                            |
+| Jessica  | Wants to see hotel images / photos               | Yes        | Add lots of photo options with                                             |
+
 ## Summarize the Qualitative Feedback
 
-Canidates feedback was to simplify the choices.  
-One list and one Map.
-Canidates looked for a list filter which wasn't there.
+Canidates feedback was to simplify the choices.    
+One list and one Map.  
+Canidates looked for a list filter which wasn't there.  
+House list is not neccessary.
 
 
 ## Design Improvements from Feedback
 
-- It was determined that the hotels and houses should be combined into one.
-- Filters need to be added to the hotel list.
-- Add in touch events to accommodate touch screens
+- It was determined that the hotels and houses should be combined into one.  
+- Filters need to be added to the hotel list.  
+- Add in touch events to accommodate touch screens.  
