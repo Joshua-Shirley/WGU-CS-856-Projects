@@ -30,12 +30,12 @@ User Tasks:
 
 ## Task Review
 
-* 1. Find a hotel near the airport. *
+1. Find a hotel near the airport.
 This was set up as an easy task to test the general functionality of the prototype.
 All three users quickly found what they were looking for.
 Because the task was easy they task was completed without much effort or discovery.
 
-* 2. Find a house with a pool. *
+2. Find a house with a pool.
 This task was set up to trying and get the user to look for information that is deeper in the website.
 The only way to find a house with a pool is to look at the hotel details page and scroll through the images.
 Only 1 of the 3 users even bothered with the hotel images.
@@ -43,14 +43,14 @@ Houses can be found on the map but not explicitly listed on the hotels page.  Th
 
 Suggested action: add a property type to the filter, hotels list, and the hotels detail page.
 
-* 3. Find a family friendly hotel - safe for teenage children. *
+3. Find a family friendly hotel - safe for teenage children.
 This task is a test with an unknown result.  I have no idea how a person would determine if a hotel is family friendly. 
 One user looked for hotels without a bar and nightclub.  Another user used the words "theme park".  One user looked through the photos to see what the accomodation looked like to make that determination.  Also one hotel was picked purely based on brand name.
 I was hoping to see how each user picked a hotel for their own family.  I was able to get some insight.  More testers would be needed to get more data.
 
 Suggested action: add family friendly icons or content to the hotel list.
 
-* 4. Use map to location a beach. *
+4. Use map to location a beach.
 This is also a very easy task for the users.  It is intended to get an easy result.
 All 3 users quickly found a beach on the map.  What all the users had issue with was finding the icon details under the bottom of the map.
 2 of the users suggested changing the styling to view the island maps icon details quicker and possibly including a link.
@@ -58,7 +58,7 @@ The map was liked by all the users.  The users
 
 Suggested action: clean up the styling for the map icons.  The icon details and menu buttons should be more visible on all screen sizes.
 
-* 5. Find accommodation close to your favorite beach. * 
+5. Find accommodation close to your favorite beach. 
 Only 1 user read any of the beach web page details.  The other users went straight to the map and explored the icons.  Very little reading was done to make any decisions.  1 user looked through the beach images to decide what his favorite beach would be.
 
 Suggested action: none.
