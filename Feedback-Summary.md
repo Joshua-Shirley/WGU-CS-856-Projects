@@ -35,6 +35,8 @@ This was set up as an easy task to test the general functionality of the prototy
 All three users quickly found what they were looking for.
 Because the task was easy they task was completed without much effort or discovery.
 
+Suggested action: none.
+
 2. Find a house with a pool.
 This task was set up to trying and get the user to look for information that is deeper in the website.
 The only way to find a house with a pool is to look at the hotel details page and scroll through the images.
