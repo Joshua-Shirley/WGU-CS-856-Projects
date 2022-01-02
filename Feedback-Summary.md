@@ -30,33 +30,24 @@ User Tasks:
 
 ## Task Review
 
-1. Find a hotel near the airport.
-This was set up as an easy task to test the general functionality of the prototype.
-All three users quickly found what they were looking for.
-Because the task was easy they task was completed without much effort or discovery.
+1. *Find a hotel near the airport.*
+
+This was set up as an easy task to test the general functionality of the prototype. Because the task was easy, it was completed without much effort or discovery. All three users quickly found what they were searching for.
 
 Suggested action: none.
 
-2. Find a house with a pool.
-This task was set up to trying and get the user to look for information that is deeper in the website.
-The only way to find a house with a pool is to look at the hotel details page and scroll through the images.
-Only 1 of the 3 users even bothered with the hotel images.
-Houses can be found on the map but not explicitly listed on the hotels page.  The users expected to find an easy answer to the task.
+2. *Find a house with a pool.*
+I set up this task to push the user to perform a deeper website search. The only way to find a house with a pool is to look at the hotel details page and scroll through the images. Only one of the three users even bothered with the hotel images. Houses can be found on the map but not explicitly listed on the hotel's page. The users expected to find an easy answer to the task.
 
 Suggested action: add a property type to the filter, hotels list, and the hotels detail page.
 
-3. Find a family friendly hotel - safe for teenage children.
-This task is a test with an unknown result.  I have no idea how a person would determine if a hotel is family friendly. 
-One user looked for hotels without a bar and nightclub.  Another user used the words "theme park".  One user looked through the photos to see what the accomodation looked like to make that determination.  Also one hotel was picked purely based on brand name.
-I was hoping to see how each user picked a hotel for their own family.  I was able to get some insight.  More testers would be needed to get more data.
+3. *Find a family friendly hotel - safe for teenage children.*
+This task is a test with an unknown result. I have no idea how a person would determine if a hotel were family-friendly. One user looked for hotels without a bar and nightclub. Another user used the words "theme park." One user looked through the photos to see what the accommodation looked like to make that determination. Also, one user picked a hotel purely based on a brand name. I was hoping to see how each user picked a hotel for their own family. I was able to get some insight. More testers would be needed to get more data.
 
 Suggested action: add family friendly icons or content to the hotel list.
 
-4. Use map to location a beach.
-This is also a very easy task for the users.  It is intended to get an easy result.
-All 3 users quickly found a beach on the map.  What all the users had issue with was finding the icon details under the bottom of the map.
-2 of the users suggested changing the styling to view the island maps icon details quicker and possibly including a link.
-The map was liked by all the users.  The users 
+4. *Use map to location a beach.*
+This task is another straightforward task for the users. All three users quickly found a beach on the map. All three users had issues finding the icon details under the bottom of the map. The users liked the map and said it was the highlight of the prototype. Two users suggested changing the details layout, an easy CSS fix.
 
 Suggested action: clean up the styling for the map icons.  The icon details and menu buttons should be more visible on all screen sizes.
 
@@ -65,10 +56,7 @@ Only 1 user read any of the beach web page details.  The other users went straig
 
 Suggested action: none.
 
-The overall goal was to make a website that encourages users to explore the island and create a desire to visit the wonderful place.
-Getting the users to look through images and read content was not fully accomplished.
-The users were quick to try and finish the tasks. I want to light up their imaginations and wonder.
-Making the images more user friendly could definitely help that cause.
+The overall goal was to make a website that encourages users to explore the island and create a desire to visit the wonderful place. Getting the users to look through images and read content was not fully accomplished. The users were quick to try and finish the tasks without any exploration or curiosity. I would like to make the images more user-friendly to encourage exploration.
 
 
 
