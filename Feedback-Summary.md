@@ -4,7 +4,7 @@ User Tasks:
 
 1. Find a hotel near the airport.
 2. Find a house with a pool.
-3. Use map to location a beach.
+3. Use the map to locate your favorite beach.
 4. Find a family friendly hotel - safe for teenage children.
 5. Find accommodation close to your favorite beach.
 
@@ -51,7 +51,7 @@ This task is another straightforward task for the users. All three users quickly
 
 Suggested action: clean up the styling for the map icons.  The icon details and menu buttons should be more visible on all screen sizes.
 
-5. Find accommodation close to your favorite beach. 
+5. *Find accommodation close to your favorite beach.* 
 Only 1 user read any of the beach web page details.  The other users went straight to the map and explored the icons.  Very little reading was done to make any decisions.  1 user looked through the beach images to decide what his favorite beach would be.
 
 Suggested action: none.
